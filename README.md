@@ -1,29 +1,32 @@
-# JupyterLite Demo
+# Fundamentos de Acústica SON-003
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+Ingeniería/Técnico en Sonido
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+IPST Otoño 2023
 
-## ✨ Try it in your browser ✨
+## Prof: Luis Alvarado P.
 
-➡️ **https://jupyterlite.github.io/demo**
+```lalvarado2@santotomas.cl```
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+MSc. en Acústica y Vibraciones UACh.
 
-## Requirements
+Ing. Civil Acústico UACh.
 
-JupyterLite is being tested against modern web browsers:
+## Horario:
 
-- Firefox 90+
-- Chromium 89+
+| Sección | Día | Hora inicio | Hora término | Sala |
+| --- | --- | --- | --- | --- |
+| 1   | Jueves | 8:00 | 10:30 | 4-6 |
+| 2   | Martes | 8:00 | 10:30 | 2-4 |
 
-## Deploy your JupyterLite website on GitHub Pages
+---
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+## Unidad 1 - Fundamentos del Sonido
 
-## Further Information and Updates
+[Unidad 1](https://mybinder.org/v2/gh/alvaradolucho/fundamentos_de_acustica/HEAD?labpath=clases%2Funidad1-fundamentos_del_sonido.ipynb)
 
-For more info, keep an eye on the JupyterLite documentation:
+---
 
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+## Utilitarios
+
+* Para abrir los patch de PureData puedes usar la siguiente página: [Purr-Data: glitch me.](https://purrdata.glitch.me/)
